@@ -1,0 +1,33 @@
+_repo: Orientaj-fabeloj_74405
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hohlov, Nikolao
+    gutenberg_agent_id: '57488'
+    url: http://www.gutenberg.org/2009/agents/57488
+creator:
+  author:
+    agent_name: Doroshevich, Vlas
+    gutenberg_agent_id: '57487'
+    url: http://www.gutenberg.org/2009/agents/57487
+description: ''
+gutenberg_issued: '2024-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74405'
+language: eo
+pgterms:marc904: https://dlibra.kul.pl/dlibra/publication/51950/edition/46773
+pgterms:marc905: 20221022110530doroshevic
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Andrew Sly and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteka Cyfrowa
+  KUL.)
+publication_note: '  $aGermany :$bFerdinand Hirt & Sohn, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Orientaj fabeloj
+url: http://www.gutenberg.org/ebooks/74405
